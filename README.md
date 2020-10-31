@@ -22,8 +22,11 @@ Supplementary materials for the paper: Rule-embedded network for audio-visual vo
 In subgraph (b), the gray and black lines denote the probability of vocalizing and non-vocalizing, respectively.<br>
 In subgraph (c), the red, blue and gray lines denote the probability of target Singing, Speech and Others, and the other remaining part is Silence.</p>
 
+<h3 align="left">3. For the source code, video demos and the open dataset MAVC100 published in this paper, please check the Code, Video_demos and Dataset_MAVC100 respectively.<p></p></h3> 
 
-
+<br>
+<br>
+<br>
 
 <p>If you want to watch more intuitively, please see here: https://yuanbo2020.github.io/GitPage/.</p>
 
