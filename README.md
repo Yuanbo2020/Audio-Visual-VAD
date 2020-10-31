@@ -24,7 +24,7 @@ In subgraph (c), the red, blue and gray lines denote the probability of target S
 <h3 align="left">3. A video demo of the detection results.<p></p></h3> 
 
 <div align="center">
-<video width=100%/ controls>
+<video width=20%/ controls>
 <source src="Video_demos/demo2.mp4" type="video/mp4">   
 </video>
 </div> 
