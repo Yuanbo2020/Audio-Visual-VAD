@@ -27,9 +27,13 @@ In subgraph (c), the red, blue and gray lines denote the probability of target S
 <video source src="Video_demos/demo2.mp4" controls="controls" width="20%"></video>
 </div> 
 
-<video id="video" controls="" preload="none">
-  <source id="mp4" src="Video_demos/demo2.mp4" type="video/mp4">
-</video>
+<iframe 
+    height=450 
+    width=800 
+    src='Video_demos/demo2.mp4' 
+    frameborder=0 
+    'allowfullscreen'>
+</iframe>
 
 
 <p align="center">The font on the top left of the video shows the activity of the anchor at the current moment. The anchor speaks, it shows speech; the anchor sings, it shows singing; the anchor has no action and there is sound in the background, it shows silence; otherwise it shows others.</p>
