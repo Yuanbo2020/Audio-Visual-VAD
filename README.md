@@ -24,10 +24,9 @@ In subgraph (c), the red, blue and gray lines denote the probability of target S
 <h3 align="left">3. A video demo of the detection results.<p></p></h3> 
 
 <div align="center">
-<video width=20%/ controls>
-<source src="Video_demos/demo2.mp4" type="video/mp4">   
-</video>
+<video source src="Video_demos/demo2.mp4" controls="controls" width="20%"></video>
 </div> 
+
 
 <p align="center">The font on the top left of the video shows the activity of the anchor at the current moment. The anchor speaks, it shows speech; the anchor sings, it shows singing; the anchor has no action and there is sound in the background, it shows silence; otherwise it shows others.</p>
 
