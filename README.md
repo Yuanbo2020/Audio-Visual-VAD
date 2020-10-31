@@ -18,8 +18,10 @@ Supplementary materials for the paper: Rule-embedded network for audio-visual vo
 </div>
 </p>
 
-<p align="center"> In subgraph (a), the red, blue, gray and green lines denote Singing, Speech, Others and Silence in audio. In subgraph (b), the gray and black lines denote vocalizing and non-vocalizing. In subgraph (c), the red, blue and gray lines denote the target Singing, Speech and Others, and the other remaining part is Silence.
-</p>
+<p align="center">In subgraph (a), the red, blue, gray and green lines denote the probability of Singing, Speech, Others and Silence in audio, respectively.</p>
+<p align="center">In subgraph (b), the gray and black lines denote the probability of vocalizing and non-vocalizing, respectively.</p>
+<p align="center">In subgraph (c), the red, blue and gray lines denote the probability of target Singing, Speech and Others, and the other remaining part is Silence.</p>
+
 
 
 
