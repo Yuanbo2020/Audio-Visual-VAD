@@ -6,8 +6,7 @@ Supplementary materials for the paper: Rule-embedded network for audio-visual vo
 <img src="The_proposed_rule-embedded_AV-VAD_network.png" width=100%/>
 </div>
 
-<p align="center"> The left part is audio branch (red words) that tries to learn the high-level acoustic features of target events in audio level, and right part is image branch (blue words) attempts to judge whether the anchor is vocalizing using visual information. The bottom part is the Audio-Visual branch (purple italics), which aims to fuse the bi-modal representations to determine the probability of target events of this paper.
-</p>
+<p align="center"> The left part is audio branch (red words) that tries to learn the high-level acoustic features of target events in audio level, and right part is image branch (blue words) attempts to judge whether the anchor is vocalizing using visual information. The bottom part is the Audio-Visual branch (purple italics), which aims to fuse the bi-modal representations to determine the probability of target events of this paper.</p>
 
 </p>
 
@@ -22,10 +21,20 @@ Supplementary materials for the paper: Rule-embedded network for audio-visual vo
 In subgraph (b), the gray and black lines denote the probability of vocalizing and non-vocalizing, respectively.<br>
 In subgraph (c), the red, blue and gray lines denote the probability of target Singing, Speech and Others, and the other remaining part is Silence.</p>
 
-<h3 align="left">3. For the source code, video demos and the open dataset MAVC100 published in this paper, please check the Code, Video_demos and Dataset_MAVC100 respectively.<p></p></h3> 
+<h3 align="left">3. A video demo of the detection results.<p></p></h3> 
 
-<br>
-<br>
+<div align="center">
+<video width=100%/ controls>
+<source src="Video_demos/demo2.mp4" type="video/mp4">   
+</video>
+</div> 
+
+<p align="center">The font on the top left of the video shows the activity of the anchor at the current moment. The anchor speaks, it shows speech; the anchor sings, it shows singing; the anchor has no action and there is sound in the background, it shows silence; otherwise it shows others.</p>
+
+
+<h3 align="left">4. For the source code, more video demos and the open dataset MAVC100 published in this paper, please check the Code, Video_demos and Open_dataset_MAVC100 respectively.<p></p></h3>
+
+
 <br>
 
 <p>If you want to watch more intuitively, please see here: https://yuanbo2020.github.io/GitPage/.</p>
