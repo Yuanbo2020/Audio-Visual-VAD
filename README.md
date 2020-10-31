@@ -1,5 +1,7 @@
 Supplementary materials for the paper: Rule-embedded network for audio-visual voice activity detection in live musical video streams , please see here for the paper: https://arxiv.org/abs/2010.14168
 
+<p>Please see here(https://yuanbo2020.github.io/GitPage/) for video demos.</p>
+
 <h3 align="left"><a name="part3">1. The proposed rule-embedded AV-VAD network.</a><p></p></h3> 
 
 <p><div align="center">
@@ -21,24 +23,11 @@ Supplementary materials for the paper: Rule-embedded network for audio-visual vo
 In subgraph (b), the gray and black lines denote the probability of vocalizing and non-vocalizing, respectively.<br>
 In subgraph (c), the red, blue and gray lines denote the probability of target Singing, Speech and Others, and the other remaining part is Silence.</p>
 
-<h3 align="left">3. A video demo of the detection results.<p></p></h3> 
-
-<div align="center">
-<video source src="Video_demos/demo2.mp4" controls="controls" width="20%"></video>
-</div> 
-
-[![Watch the video](Video_demos/demo2.mp4)](Video_demos/demo2.mp4)
-
-
-<p align="center">The font on the top left of the video shows the activity of the anchor at the current moment. The anchor speaks, it shows speech; the anchor sings, it shows singing; the anchor has no action and there is sound in the background, it shows silence; otherwise it shows others.</p>
-
-
-<h3 align="left">4. For the source code, more video demos and the open dataset MAVC100 published in this paper, please check the Code, Video_demos and Open_dataset_MAVC100 respectively.<p></p></h3>
-
-
-<br>
+<h3 align="left">3. For the source code, video demos and the open dataset MAVC100 published in this paper, please check the Code, Video_demos and Open_dataset_MAVC100 respectively.<p></p></h3>
 
 <p>If you want to watch more intuitively, please see here: https://yuanbo2020.github.io/GitPage/.</p>
+
+<br>
 
 <p>Please feel free to contact me if you have any questions.</p>
 
