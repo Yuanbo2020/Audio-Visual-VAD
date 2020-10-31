@@ -24,13 +24,13 @@ For example:
 <p><li>Starting time position of Silence: 3s.</li></p>
 
 <h2> Description of each file or folder</h2>
-<p><li>The ¡°Source_urls_of_live_streams.txt¡± contains the original link of all the data used, you can choose to use the original link to download the video data, or download it directly in the folder (Backup_of_source_video_streams) on this page;</li></p>
+<p><li>The 'Source_urls_of_live_streams.txt' contains the original link of all the data used, you can choose to use the original link to download the video data, or download it directly in the folder (Backup_of_source_video_streams) on this page;</li></p>
 
-<p><li>¡°Backup_of_source_video_streams¡± contains the original video data that we have backed up and organized. You can choose to download it directly;</li></p>
+<p><li>'Backup_of_source_video_streams' contains the original video data that we have backed up and organized. You can choose to download it directly;</li></p>
 
-<p><li>¡°Frame_level_audio_labels.rar¡± is the frame-level labels in audio streams;</li></p>
+<p><li>'Frame_level_audio_labels.rar' is the frame-level labels in audio streams;</li></p>
 
-<p><li>¡°Frame_level_audio-visual_labels.rar¡± includes the audio-visual frame-level labels.</li></p>
+<p><li>'Frame_level_audio-visual_labels.rar' includes the audio-visual frame-level labels.</li></p>
 
 <p>Please note that the original video data of the MAVC100 comes from the Internet, and the label data are all made by ourselves. The MAVC100 can only be used for research purposes and not for other purposes. If the original video data is infringing, please contact us and we will delete this backup in time.</p>
 
