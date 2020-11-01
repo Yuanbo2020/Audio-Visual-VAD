@@ -1,6 +1,6 @@
 Supplementary materials for the paper: Rule-embedded network for audio-visual voice activity detection in live musical video streams , please see here for the paper: https://arxiv.org/abs/2010.14168
 
-<p>Please see here(https://yuanbo2020.github.io/GitPage/) for video demos.</p>
+<p>Please see here(https://yuanbo2020.github.io/Audio-Visual-VAD/) for video demos.</p>
 
 <h3 align="left"><a name="part3">1. The proposed rule-embedded AV-VAD network.</a><p></p></h3> 
 
@@ -25,7 +25,7 @@ In subgraph (c), the red, blue and gray lines denote the probability of target S
 
 <h3 align="left">3. For the source code, video demos and the open dataset MAVC100 published in this paper, please check the Code, Video_demos and Open_dataset_MAVC100, respectively.<p></p></h3>
 
-<p>If you want to watch more intuitively, please see here: https://yuanbo2020.github.io/GitPage/.</p>
+<p>If you want to watch more intuitively, please see here: https://yuanbo2020.github.io/Audio-Visual-VAD/.</p>
 
 <br>
 

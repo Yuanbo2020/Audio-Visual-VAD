@@ -2,4 +2,4 @@ Here are the detection results based on rule-embedded audio-visual VAD network i
 
 The font on the top left of the video shows the activity of the anchor at the current moment. The anchor speaks, it shows speech; the anchor sings, it shows singing; the anchor has no action and there is sound in the background, it shows silence; otherwise it shows others.
 
-For online play, please see here: https://yuanbo2020.github.io/GitPage/
+For online play, please see here: https://yuanbo2020.github.io/Audio-Visual-VAD/
