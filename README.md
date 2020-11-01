@@ -12,10 +12,10 @@ Supplementary materials for the paper: Rule-embedded network for audio-visual vo
 
 </p>
 
-<h3 align="left">2. A demo from the test results.<p></p></h3> 
+<h3 align="left">2. The_original_output_of_the_rule-embedded_AV-VAD_network.<p></p></h3> 
 
 <p><div align="center">
-<img src="A_demo_from_the_test_results.png" width=100%/>
+<img src="The_original_output_of_the_rule-embedded_AV-VAD_network.png" width=100%/>
 </div>
 </p>
 
