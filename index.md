@@ -63,5 +63,5 @@ The left part is audio branch (red words) that tries to learn the high-level aco
 In subgraph (b), the gray and black lines denote the probability of vocalizing and non-vocalizing, respectively.<br>
 In subgraph (c), the red, blue and gray lines denote the probability of target Singing, Speech and Others, and the other remaining part is Silence.</p>
 
-
+<br>
 
