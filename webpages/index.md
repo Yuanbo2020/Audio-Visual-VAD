@@ -1,5 +1,14 @@
 <h1 align="center">Rule-embedded network for audio-visual voice activity detection in live musical video streams<p></p></h1>
 
+
+Rule-embedded network for audio-visual voice activity detection in live musical video streams
+
+
+# Rule-embedded network for audio-visual voice activity detection in live musical video streams
+
+
+## Rule-embedded network for audio-visual voice activity detection in live musical video streams
+
 ### Paper link
 
 https://arxiv.org/abs/2010.14168
