@@ -1,52 +1,67 @@
 <h1 align="center">Rule-embedded network for audio-visual voice activity detection in live musical video streams<p></p></h1>
 
+<h2 align="center">Paper<p></p></h2>
 
-Rule-embedded network for audio-visual voice activity detection in live musical video streams
+Please see <a href="https://arxiv.org/abs/2010.14168" 
+target="https://arxiv.org/abs/2010.14168">here</a> (https://arxiv.org/abs/2010.14168).<br>
+
+<h2 align="center">Code<p></p></h2>
+
+Please see <a href="https://github.com/Yuanbo2020/Audio-Visual-VAD/tree/main/Code" 
+target="https://github.com/Yuanbo2020/Audio-Visual-VAD/tree/main/Code">here</a>.<br>
+
+<h2 align="center">Open dataset MAVC100<p></p></h2>
+
+For detailed information and download of the MAVC100, please see <a href="https://github.com/Yuanbo2020/Audio-Visual-VAD/tree/main/Open_dataset_MAVC100" 
+target="https://github.com/Yuanbo2020/Audio-Visual-VAD/tree/main/Open_dataset_MAVC100">here</a>.<br>
+
+<h2 align="center">Demos of the detection results<p></p></h2>
+
+Here are the detection results based on rule-embedded audio-visual VAD network in the paper.
+
+<br>
+
+The font on the top left of the video shows the activity of the anchor at the current moment. The anchor speaks, it shows speech; the anchor sings, it shows singing; the anchor has no action and there is sound in the background, it shows silence; otherwise it shows others.
+
+<h3 align="center">Demo 1<p></p></h3>
+<div align="center">
+<video width=18%/ controls>
+<source src="https://github.com/Yuanbo2020/Audio-Visual-VAD/blob/main/Video_demos/demo2.mp4" type="video/mp4">   
+</video>
+</div>  
+
+<h3 align="center">Demo 2<p></p></h3>
+<div align="center">
+<video width=18%/ controls>
+<source src="https://github.com/Yuanbo2020/Audio-Visual-VAD/blob/main/Video_demos/demo3.mp4" type="video/mp4">   
+</video>
+</div>  
+
+<h3 align="center">Demo 3<p></p></h3>
+<div align="center">
+<video width=18%/ controls>
+<source src="https://github.com/Yuanbo2020/Audio-Visual-VAD/blob/main/Video_demos/demo1.mp4" type="video/mp4">   
+</video>
+</div>  
+
+<h2 align="center">The proposed rule-embedded AV-VAD network<p></p></h2>
+
+<p><div align="center">
+<img src="https://github.com/Yuanbo2020/Audio-Visual-VAD/blob/main/The_proposed_rule-embedded_AV-VAD_network.png" width=100%/>
+</div>
+
+The left part is audio branch (red words) that tries to learn the high-level acoustic features of target events in audio level, and right part is image branch (blue words) attempts to judge whether the anchor is vocalizing using visual information. The bottom part is the Audio-Visual branch (purple italics), which aims to fuse the bi-modal representations to determine the probability of target events of this paper.
+
+<h2 align="center">The original output of the rule-embedded AV-VAD network<p></p></h2>
+
+<p><div align="center">
+<img src="https://github.com/Yuanbo2020/Audio-Visual-VAD/blob/main/The_original_output_of_the_rule-embedded_AV-VAD_network.png" width=100%/>
+</div>
+</p>
+
+<p align="center">In subgraph (a), the red, blue, gray and green lines denote the probability of Singing, Speech, Others and Silence in audio, respectively.<br>
+In subgraph (b), the gray and black lines denote the probability of vocalizing and non-vocalizing, respectively.<br>
+In subgraph (c), the red, blue and gray lines denote the probability of target Singing, Speech and Others, and the other remaining part is Silence.</p>
 
 
-# Rule-embedded network for audio-visual voice activity detection in live musical video streams
 
-
-## Rule-embedded network for audio-visual voice activity detection in live musical video streams
-
-### Paper link
-
-https://arxiv.org/abs/2010.14168
-
-
-
-You can use the [editor on GitHub](https://github.com/Yuanbo2020/Yuanbo_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yuanbo2020/Yuanbo_page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
