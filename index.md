@@ -1,4 +1,10 @@
-Yuanbo Hou’s GitPage
+<h1 align="center">Rule-embedded network for audio-visual voice activity detection in live musical video streams<p></p></h1>
+
+### Paper link
+
+https://arxiv.org/abs/2010.14168
+
+
 
 You can use the [editor on GitHub](https://github.com/Yuanbo2020/Yuanbo_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
