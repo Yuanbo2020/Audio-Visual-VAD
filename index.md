@@ -45,7 +45,7 @@ The font on the top left of the video shows the activity of the anchor at the cu
 <h2>The proposed rule-embedded AV-VAD network<p></p></h2>
 
 <p><div align="center">
-<img src="/blob/main/The_original_output_of_the_rule-embedded_AV-VAD_network.png" width=100%/>
+<img src="https://yuanbo2020.github.io/Audio-Visual-VAD/blob/main/The_original_output_of_the_rule-embedded_AV-VAD_network.png" width=100%/>
 </div>
 
 The left part is audio branch (red words) that tries to learn the high-level acoustic features of target events in audio level, and right part is image branch (blue words) attempts to judge whether the anchor is vocalizing using visual information. The bottom part is the Audio-Visual branch (purple italics), which aims to fuse the bi-modal representations to determine the probability of target events of this paper.
@@ -53,7 +53,7 @@ The left part is audio branch (red words) that tries to learn the high-level aco
 <h2>The original output of the rule-embedded AV-VAD network<p></p></h2>
 
 <p><div align="center">
-<img src="blob/main/The_original_output_of_the_rule-embedded_AV-VAD_network.png" width=100%/>
+<img src="https://yuanbo2020.github.io/Audio-Visual-VAD/main/The_original_output_of_the_rule-embedded_AV-VAD_network.png" width=100%/>
 </div>
 </p>
 
