@@ -27,8 +27,6 @@ In subgraph (c), the red, blue and gray lines denote the probability of target S
 
 <p>If you want to watch more intuitively, please see here: https://yuanbo2020.github.io/Audio-Visual-VAD/.</p>
 
-<br>
-
 # Citation
 Please feel free to use the open dataset MAVC100 and consider citing our paper as
 
