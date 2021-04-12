@@ -36,4 +36,22 @@ For example:
 
 <p>The annotations of the MAVC100 can be used for research free of charge, but we reserve the corresponding legal rights.</p>
 
-Mail: Yuanbo.Hou@UGent.be
+# Citation
+Please feel free to use this data set and consider citing our paper as
+
+```bibtex
+@inproceedings{icassp2021_hou,
+  author    = {Yuanbo Hou and
+               Yi Deng and
+               Bilei Zhu and
+               Zejun Ma and
+               Dick Botteldooren},
+  title     = {Rule-embedded network for audio-visual voice activity detection in
+               live musical video streams},
+  booktitle = {{IEEE} International Conference on Acoustics, Speech and Signal Processing,
+               {ICASSP} 2021},
+  publisher = {{IEEE}},
+  year      = {2021},
+}
+```
+
