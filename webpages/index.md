@@ -63,5 +63,22 @@ The left part is audio branch (red words) that tries to learn the high-level aco
 In subgraph (b), the gray and black lines denote the probability of vocalizing and non-vocalizing, respectively.<br>
 In subgraph (c), the red, blue and gray lines denote the probability of target Singing, Speech and Others, and the other remaining part is Silence.</p>
 
+# Citation
+Please feel free to use the open dataset MAVC100 and consider citing our paper as
 
+```bibtex
+@inproceedings{icassp2021_hou,
+  author    = {Yuanbo Hou and
+               Yi Deng and
+               Bilei Zhu and
+               Zejun Ma and
+               Dick Botteldooren},
+  title     = {Rule-embedded network for audio-visual voice activity detection in
+               live musical video streams},
+  booktitle = {{IEEE} International Conference on Acoustics, Speech and Signal Processing,
+               {ICASSP} 2021},
+  publisher = {{IEEE}},
+  year      = {2021},
+}
+```
 
