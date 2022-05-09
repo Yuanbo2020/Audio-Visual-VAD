@@ -31,7 +31,7 @@ In subgraph (c), the red, blue and gray lines denote the probability of target S
 Please feel free to use the open dataset MAVC100 and consider citing our paper as
 
 ```bibtex
-@INPROCEEDINGS{9413418,
+@INPROCEEDINGS{icassp2021_hou,
   author={Hou, Yuanbo and Deng, Yi and Zhu, Bilei and Ma, Zejun and Botteldooren, Dick},
   booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={Rule-Embedded Network for Audio-Visual Voice Activity Detection in Live Musical Video Streams}, 
