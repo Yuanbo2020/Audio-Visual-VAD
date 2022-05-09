@@ -67,18 +67,15 @@ In subgraph (c), the red, blue and gray lines denote the probability of target S
 Please feel free to use the open dataset MAVC100 and consider citing our paper as
 
 ```bibtex
-@inproceedings{icassp2021_hou,
-  author    = {Yuanbo Hou and
-               Yi Deng and
-               Bilei Zhu and
-               Zejun Ma and
-               Dick Botteldooren},
-  title     = {Rule-embedded network for audio-visual voice activity detection in
-               live musical video streams},
-  booktitle = {{IEEE} International Conference on Acoustics, Speech and Signal Processing,
-               {ICASSP} 2021},
-  publisher = {{IEEE}},
-  year      = {2021},
+@INPROCEEDINGS{icassp2021_hou,
+  author={Hou, Yuanbo and Deng, Yi and Zhu, Bilei and Ma, Zejun and Botteldooren, Dick},
+  booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Rule-Embedded Network for Audio-Visual Voice Activity Detection in Live Musical Video Streams}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={4165-4169},
+  doi={10.1109/ICASSP39728.2021.9413418}}
 }
 ```
 
